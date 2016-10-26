@@ -1,5 +1,7 @@
 package net.apispark.webapi;
 
+import net.apispark.webapi.db.ContactPersistence;
+
 import org.junit.Assert;
 import org.junit.Test;
 
